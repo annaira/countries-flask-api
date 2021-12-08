@@ -2,7 +2,9 @@
 
 How to start
 set FLASK_APP=app.py
+
 set FLASK_ENV=development
+
 flask run
 
 Get your country here
